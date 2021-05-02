@@ -10,6 +10,17 @@
 		<atom:link href="https://QIJINCare.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>Text</title>
+			<link>https://QIJINCare.github.io/posts/text/</link>
+			<pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://QIJINCare.github.io/posts/text/</guid>
+			<description>测试用</description>
+			<content type="html"><![CDATA[<p>测试用</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>Treatment of autism</title>
 			<link>https://QIJINCare.github.io/posts/creating-a-new-theme/</link>
 			<pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
